@@ -1,5 +1,5 @@
 flask
-python-telegram-bot==20.6
 transformers
 torch
 sentencepiece
+protobuf==3.20.3
